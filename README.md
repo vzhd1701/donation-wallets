@@ -10,7 +10,7 @@
 bitcoincash:qq5gxzy64an7w3suh2kwr9nl9spahshxtvh36kazkc
 ```
 
-### ETH Ethereum
+### ETH Ethereum / USDT Tether USD (Ethereum ERC-20)
 ```
 0x8a6c6578DAD64736811410331aeAC26999457574
 ```
@@ -23,11 +23,6 @@ bitcoincash:qq5gxzy64an7w3suh2kwr9nl9spahshxtvh36kazkc
 ### LTC Litecoin
 ```
 LL6f3L6s72AE4Qxqigurx5CSea8gvRAgeQ
-```
-
-### USDT Tether USD (Ethereum ERC-20)
-```
-0x8a6c6578DAD64736811410331aeAC26999457574
 ```
 
 ### XRP Ripple
